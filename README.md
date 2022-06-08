@@ -1,3 +1,3 @@
 # Organization Profile
 
-Homepage of the GitHub organization **_Meta-analyses and Systematic reviews_**
+Homepage of the GitHub organization **_Literature Synthesis: Meta-analyses and Systematic reviews_**
